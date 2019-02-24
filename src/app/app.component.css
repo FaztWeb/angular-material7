@@ -1,0 +1,20 @@
+mat-toolbar {
+    padding-left: 3rem;
+}
+
+main {
+    width: 100%;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+mat-card, app-photos {
+    margin: auto;
+    width: 35%;
+    display: block;
+    margin-top: 2rem;
+}
+
+mat-form-field, input {
+    width: 100%;
+}
